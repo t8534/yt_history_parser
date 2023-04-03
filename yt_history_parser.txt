@@ -1,0 +1,23 @@
+youtube history json parser
+
+https://python-forum.io/thread-4672.html
+
+https://github.com/seanbreckenridge/google_takeout_parser
+
+https://gist.github.com/teodoran/8cdb3940847b2bff2d812e32c8588399
+
+https://realpython.com/python-json/
+
+
+
+https://docs.python.org/3/library/json.html
+
+https://www.freecodecamp.org/news/python-parse-json-how-to-read-a-json-file/
+
+
+c++
+https://kishoreganesh.com/post/writing-a-json-parser-in-cplusplus/
+
+https://stackoverflow.com/questions/32205981/reading-json-files-in-c
+
+https://medium.com/ml2b/a-guide-to-json-using-c-a48039124f3a
